@@ -1,2 +1,9 @@
 # DPG-assignment
-test test
+
+
+
+
+# Requirements
+- Python 3.7.6
+
+
