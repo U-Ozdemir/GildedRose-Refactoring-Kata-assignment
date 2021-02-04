@@ -25,6 +25,11 @@
 - The code is messy and hard to read.
 - It gives negative values
 
+# Notes regarding my code
+- the function should use return to output the results
+- each item should have its own function
+- contraints should not be hard coded in every item
+- functions have type hints to provide the right data type
 
 # Requirements
 - Python 3.7.6
