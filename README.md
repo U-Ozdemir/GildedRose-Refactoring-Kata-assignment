@@ -1,4 +1,4 @@
-# DPG-assignment
+# GildedRose Refactoring Kata
 
 
 # Constraints
