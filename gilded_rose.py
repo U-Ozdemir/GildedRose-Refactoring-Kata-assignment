@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 
-min_quality = 0
-max_quality = 50
-legendary_quality = 80
-min_sell_in = 0
-
 class GildedRose(object):
 
     def __init__(self, items):
