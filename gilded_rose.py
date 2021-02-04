@@ -52,7 +52,7 @@ class GildedRose(object):
                     item.quality = 80
 
                 
-            elif item.name == "Backstage passes to a TAFKAL80ETC concert": # deze klopt niet
+            elif item.name == "Backstage passes to a TAFKAL80ETC concert":
                 if item.sell_in > 10:
                     item.sell_in -= 1
                     if item.quality > 50:
